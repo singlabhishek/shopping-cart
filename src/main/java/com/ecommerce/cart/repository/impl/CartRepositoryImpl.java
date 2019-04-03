@@ -1,7 +1,7 @@
-package com.ecommerce.cart.controller.repository.impl;
+package com.ecommerce.cart.repository.impl;
 
 import com.ecommerce.cart.bean.Cart;
-import com.ecommerce.cart.controller.repository.CartRepository;
+import com.ecommerce.cart.repository.CartRepository;
 import com.ecommerce.cart.enums.CartStatus;
 import org.springframework.stereotype.Repository;
 

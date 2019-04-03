@@ -1,4 +1,4 @@
-package com.ecommerce.cart.controller.repository;
+package com.ecommerce.cart.repository;
 
 import com.ecommerce.cart.bean.Cart;
 import com.ecommerce.cart.enums.CartStatus;

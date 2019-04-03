@@ -1,7 +1,7 @@
 package com.ecommerce.cart.service.impl;
 
 import com.ecommerce.cart.bean.Cart;
-import com.ecommerce.cart.controller.repository.CartRepository;
+import com.ecommerce.cart.repository.CartRepository;
 import com.ecommerce.cart.enums.CartStatus;
 import com.ecommerce.cart.service.CartService;
 import org.springframework.beans.factory.annotation.Autowired;
